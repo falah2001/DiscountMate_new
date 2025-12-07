@@ -5,3 +5,5 @@ Frontend/node_modules
 Frontend/.expo
 .env
 /ML/SMART CART/Falah Code/data
+.vscode/settings.json
+*.csv
